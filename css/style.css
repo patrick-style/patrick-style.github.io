@@ -36,26 +36,26 @@ body	{font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;}
 }
 
 
-/* works */
-.works {
+/* hobby */
+.hobby {
   padding: 100px 0 100px 0;
   background-color: #fff;
   text-align: center;
 }
 
-.works h1 {
+.hobby h1 {
   margin: 100px 0 20px 0;
   font-size: 40px;
   line-height: 1.2;
 }
 
-.works h2 {
+.hobby h2 {
   margin: 25px 0 20px 0;
   font-size: 30px;
   line-height: 1.2;
 }
 
-.works div#sub-works {
+.hobby div#sub-hobbys {
 }
 
 /* skills */
